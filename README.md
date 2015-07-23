@@ -1,4 +1,4 @@
-Projeto de Controle de Alugueis ![](https://github.com/pamepeixinho/Controle_Alugueis/blob/master/window.png)
+Projeto de Controle de Alugueis ![](https://github.com/pamepeixinho/Controle_Alugueis/blob/master/window1.png)
 ========
 ----------
 
