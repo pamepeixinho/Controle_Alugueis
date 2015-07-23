@@ -1,0 +1,52 @@
+*Janelas
+->menu - +-
+->cadastro Casa - OK! 
+->cadastro Ap - +-
+->Busca Imovel
+->Consultar Pendencias
+->Dar baixa
+*Apresentacao FAZER
+*Texto Entregar FAZER
+*Salvar Database - OK!
+*Reload Database - OK!
+
+-----------------------
+- sobrecarga do operador < _ IMOVEISDB (endereco)
+- polimorfismo - Imoveis -> casa, ap
+- heranca - Imoveis-> casa, ap
+- funcoes membro
+- atributos
+- instanciar objetos
+- 4 class fora qt
+- estrutura de dados
+- up e down
+----------------------
+ARQUIVO
+
+endereco !
+cidade !
+inquilino !
+bairro !
+complemento ! 
+imobiliaria !
+observacao !
+valoralguel !
+dataVencimento !
+dormirtorios !
+
+-casa
+sobrado
+garagem
+quintal
+
+-ap
+cobertura
+salao de festas
+piscina
+academia
+andar I
+vagas I
+bloco Q
+
+(iptu)
+(payment)
