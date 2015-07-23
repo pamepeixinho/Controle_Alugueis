@@ -1,6 +1,6 @@
-Projeto de Controle de Alugueis ![](https://github.com/pamepeixinho/Controle_Alugueis/blob/master/window1.png)
+Projeto de Controle de Alugueis ![](https://github.com/pamepeixinho/Controle_Alugueis/blob/master/window.png)
+=========
 
-----------
 
 O projeto **Controle de Alugueis** foi criado com o objetivo de facilitar o gereciamento de alugueis, provendo uma interface gráfica criada com QT usando a linguagem C++. 
 
