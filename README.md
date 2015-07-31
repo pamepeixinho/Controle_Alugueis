@@ -8,6 +8,6 @@ Este foi desenvolvido juntamente com os programadores Victor Roveda e Giulia Fer
 
 >**Note:** se quiser saber mais sobre o projeto pode consultar o arquivo [Projeto Controle de Aluguel](ProjetoControleAluguel.pdf)
 
-Este projeto foi desenvolvido com base neste diagrama:
+Este projeto foi desenvolvido com base neste diagrama de classes:
 
 ![Diagrama de Classes do Projeto](https://github.com/pamepeixinho/Controle_Alugueis/blob/master/controle%20de%20alugueis%20-%20PROJECT%20-%20ControleDeAlgueis.png)
