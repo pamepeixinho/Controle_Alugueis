@@ -2,11 +2,11 @@ Projeto de Controle de Alugueis ![](https://github.com/pamepeixinho/Controle_Alu
 =========
 
 
-O projeto **Controle de Alugueis** foi criado com o objetivo de facilitar o gereciamento de alugueis, provendo uma interface gráfica criada com QT usando a linguagem C++. 
+O projeto **Controle de Alugueis** foi criado com o objetivo de facilitar o gereciamento de alugueis, provendo uma interface grÃ¡fica criada com QT usando a linguagem C++. 
 
-Este foi desenvolvido juntamente com os programadores Victor Roveda e Giulia Ferri, o mesmo foi apresentado como projeto na matéria Técnicas de Programação I ministrado no Centro Universitário FEI, utilizando conceitos de OOP.
+Este foi desenvolvido juntamente com os programadores Victor Roveda e Giulia Ferri, o mesmo foi apresentado como projeto na matÃ©ria TÃ©cnicas de ProgramaÃ§Ã£o I ministrado no Centro UniversitÃ¡rio FEI, utilizando conceitos de OOP.
 
->**Note:** se quiser saber mais sobre o projeto pode consultar o arquivo ProjetoControleAluguel.pdf 
+>**Note:** se quiser saber mais sobre o projeto pode consultar o arquivo [a relative link](ProjetoControleAluguel.pdf)
 
 Este projeto foi desenvolvido com base neste diagrama:
 
